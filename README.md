@@ -1,19 +1,12 @@
 # D5M_CAMERA_ZYNQ
 
-Color and Edge Detection Using FPGA Based Smart Camera(ALTERA CYCLONEII VERSION)
-
-Final Report
-
+Color and Edge Detection Using FPGA Based Smart Camera ***(ALTERA CYCLONEII VERSION)***
 ENTS 689Y Multimedia Communications over Networks
-
 By
-
 Sakinder Ali
-
 Under the Supervision Of
-
-
 Dr. Q. Zang
+
 
 1. Abstract:
 > Object recognition and tracking with real-time smart camera plays an important role in many modern vision applications such as work force tracking, intelligence surveillance, fire detection and many more. The main motivation of this project is to extract the color object and recognition using the Sobel edge detection and pass the detected signal to wireless channel using Zigbee (802.15.4). Experimental results demonstrated that object detection is very important for selected color tracking in the industrial automation and work places. Computer based Software programming such as java, C++ and C# cannot satisfy the speed in terms of real-time parallel processing of vast amount of video data. Therefore in order to improve the performance of real time video processing, FPGA is an effective device to rely on. This device is capable of real-time parallel processing of vast amounts of video data. The presented results from given design can be used as color and edge detection on a streaming video which is the basic building block necessary for further object detection.
