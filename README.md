@@ -57,11 +57,11 @@ to write and read from SDRAM and it operate using 4 FIFO ports sides. Two fifo p
 ports from left side of the SDRAM controller at 50MHz clock rate and then stored into the SDRAM chip. To read from SDRAM chip, two other fifo ports used to read side1 and side 2 at 27 MHz clock rate.
 # 8. Conclusion:
 Overall the results from the project were satisfied. In this paper, we have shown how to create a pixel which is based on color window detector. We elaborated the concept of edge detection using FPGA device. Improvement can be made for the future work with more in depth parallel and pipeline structure using low level programming techniques. Finally, the least the color detection of any range in FPGA chip also inspires more intelligent control of the system in the future. This stand-alone, FPGA-based smart camera is useful in the tracking of a moving object in the factories, worker’s vest, operator position and missing labels on the object.
-*** References:
-*[1] http://nptel.iitm.ac.in/courses/Webcoursecontents/IIT%20Kharagpur/Embedded%20systems/Pdf/Lesson-20.pdf
-*[2] http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5716147
-*[3] http://www.secs.oakland.edu/~ganesan/ece576f10project/index_files/Page361.htm
-*[4] Quartus FPGA design software, from http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
-*[5] The Synplify solution Synplicity, from http://www.synplicity.com/products/synplifypro/
-*[6] Mentor Graphics Modelsim, from http://www.mentor.com/products/fpga/simulation/modelsim
-*[7] http://www.digi.com/support/kbase/kbaseresultdetl.jsp?kb=125
+# References:
+1. http://nptel.iitm.ac.in/courses/Webcoursecontents/IIT%20Kharagpur/Embedded%20systems/Pdf/Lesson-20.pdf
+2. http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5716147
+3. http://www.secs.oakland.edu/~ganesan/ece576f10project/index_files/Page361.htm
+4. Quartus FPGA design software, from http://www.altera.com/products/software/quartus-ii/web-edition/qts-we-index.html
+5. The Synplify solution Synplicity, from http://www.synplicity.com/products/synplifypro/
+6. Mentor Graphics Modelsim, from http://www.mentor.com/products/fpga/simulation/modelsim
+7. http://www.digi.com/support/kbase/kbaseresultdetl.jsp?kb=125
