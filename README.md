@@ -1,11 +1,11 @@
 # D5M_CAMERA_ZYNQ
 
-Color and Edge Detection Using FPGA Based Smart Camera ***(ALTERA CYCLONEII VERSION)***
-ENTS 689Y Multimedia Communications over Networks
-By
-Sakinder Ali
-Under the Supervision Of
-Dr. Q. Zang
+#### Color and Edge Detection Using FPGA Based Smart Camera ***(ALTERA CYCLONEII VERSION)***
+#### ENTS 689Y Multimedia Communications over Networks
+#### By
+#### Sakinder Ali
+#### Under the Supervision Of
+#### Dr. Q. Zang
 
 
 1. Abstract:
